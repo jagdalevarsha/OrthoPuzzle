@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OrthoPuzzle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="side_ortho_view">Side View</string>
+    <string name="front_ortho_view">Front View</string>
+    <string name="top_ortho_view">Here is the top view</string>
+    <string name="next_view">Next view</string>
+    <string name="puzzle_level">Puzzle level 1</string>
+    <string name="title_activity_second_ortho_view">SecondOrthoView</string>
+    <string name="build_instruction">Build your object and then tap verify</string>
+    <string name="verify_object">Verify my object!</string>
+    <string name="first_view_label">Here is the front view </string>
+    <string name="title_activity_open_cvcamera">OpenCVCameraActivity</string>
+
+</resources>
